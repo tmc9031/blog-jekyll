@@ -17,8 +17,8 @@ title: F.
 email: tmc9031@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   A pair of free fish
-baseurl: "/blog-jekyll" # the subpath of your site, e.g. /blog
-url: "https://tmc9031.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://tmc1900.com" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
 github_username:  tmc9031
 
